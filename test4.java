@@ -6,5 +6,8 @@ public class Solution{
     int b=7;
     int c=a+b;
     System.out.println(a+b+c);
+    
   }
+  public void sum(int a,int b){
+    System.out.println(a+b);
 }
